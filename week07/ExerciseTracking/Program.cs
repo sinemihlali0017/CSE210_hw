@@ -114,7 +114,10 @@ public class Swimming : Activity
 class Program
 {
     static void Main(string[] args)
+
     {
+
+        Console.WriteLine("Exercise Tracking Program");
         List<Activity> activities = new List<Activity>();
 
     
